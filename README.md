@@ -2,4 +2,4 @@
 نحوه اتصال به گیت هاب
 
 
-[ترجمه شده از ](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
+[ترجمه شده](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
